@@ -8,7 +8,7 @@
 - Denetim dosya listesine ve ödeme tablosuna erişebilir.
 - Üye sadece ödeme tablosuna erişebilir.
 
-LIVE: [SİTEYE GİTMEK İÇİN TIKLAYINIZ](dernekscript.epizy.com/).
+LIVE: [SİTEYE GİTMEK İÇİN TIKLAYINIZ](http://www.dernekscript.epizy.com/).
 
 KULLANICI ADI: admin
 ŞİFRE: 12345
