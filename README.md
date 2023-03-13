@@ -1,4 +1,4 @@
-﻿# dernek
+﻿# Script Özellikleri
 - Kullanıcı ekleme, silme ve düzenleme yapılabilir.
 - Kullanıcı ödeme ekleme, silme ve düzenleme yapılabilir.
 - Dosya eklenebilir. (pdf, excel ve word dosyaları varsayılan filtrelerdir).
