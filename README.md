@@ -7,3 +7,8 @@
 - Admin giriş yaptığında admin paneline, ödeme tablosuna ve dosya listesine erişebilir.
 - Denetim dosya listesine ve ödeme tablosuna erişebilir.
 - Üye sadece ödeme tablosuna erişebilir.
+
+LIVE: dernekscript.epizy.com
+
+KULLANICI ADI: admin
+ŞİFRE: 12345
